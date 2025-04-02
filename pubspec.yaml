@@ -1,0 +1,13 @@
+name: bus_tracker
+description: A Flutter GPS tracking app with Supabase
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.0.0
+  geolocator: ^10.1.0
+  flutter_background_service: ^5.1.0
+  uuid: ^4.0.0
